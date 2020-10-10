@@ -288,3 +288,12 @@ stereo_calibration.py
 stereo_match.py
 stereoconfig.py
 test.jpg
+
+.idea
+.idea/.gitignore
+.idea/3D construction.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/vcs.xml
